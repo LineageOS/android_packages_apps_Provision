@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAc3//+Ao\u003d",
+        "filename": "src/com/android/provision/DefaultActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-26T18:44:14Z",
+      "side": 1,
+      "message": "Why not use Settings.Secure.USER_SETUP_COMPLETE directly? The Provision app doesn\u0027t seem to use the SDK, so using the field directly should work.",
+      "revId": "2e26e0d67f47acdb94c46e11294ad59c7df47000",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
